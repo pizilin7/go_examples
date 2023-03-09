@@ -1,4 +1,4 @@
-// 语言结构
+cd // 语言结构
 package main // 包声明
 
 import "fmt" // 引入包
